@@ -1,0 +1,14 @@
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\bin\Debug\net8.0\Chatting.Server.exe
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\bin\Debug\net8.0\Chatting.Server.deps.json
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\bin\Debug\net8.0\Chatting.Server.runtimeconfig.json
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\bin\Debug\net8.0\Chatting.Server.dll
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\bin\Debug\net8.0\Chatting.Server.pdb
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.AssemblyInfo.cs
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.dll
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\refint\Chatting.Server.dll
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.pdb
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\Chatting.Server.genruntimeconfig.cache
+C:\Users\dusti\source\repos\Chatting\Chatting.Server\obj\Debug\net8.0\ref\Chatting.Server.dll
